@@ -5,7 +5,7 @@
 
 | S No. |Topics|Questions|
 |----| --------------- | -------- |
-|  1.  | [Array](Arrays)|[Questions](Arrays/Arrays.md)|
+|  1.  | [Array](Arrays)|[Questions](Arrays/README.md)|
 
 
 #### Show Your Support
